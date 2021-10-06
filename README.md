@@ -6,7 +6,7 @@
 
 2. gogin
 
-   go写的后端，gin框架。
+   Gin Web Framework
 
 3. lsofoosys
 
