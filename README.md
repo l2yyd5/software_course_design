@@ -2,7 +2,7 @@
 
 1. detours-cmake
 
-   使用vs2019 cmake
+   vs2019 cmake
 
 2. gogin
 
